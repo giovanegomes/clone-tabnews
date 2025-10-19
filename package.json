@@ -4,7 +4,8 @@
   "description": "Implementação do https://www.tabnews.com.br/ para estudos",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "",
   "license": "MIT",
